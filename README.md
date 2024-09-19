@@ -83,7 +83,7 @@ My journey as a backend virtuoso is an eternal quest for knowledge and excellenc
 
  
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinatmecs2&show_icons=true&locale=en&theme=dark" alt="sachinatmecs" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sachinatmecs&show_icons=true&locale=en&theme=dark" alt="sachinatmecs" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sachinatmecs&theme=dark" alt="sachinatmecs" /></p>
 
